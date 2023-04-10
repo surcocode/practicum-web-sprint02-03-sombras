@@ -81,3 +81,7 @@ html, body {
   left: 15px;
   margin: 0;
 }
+
+.demo__item_type_blur:hover{
+  box-shadow: 0 0 50px #366c49;
+}
