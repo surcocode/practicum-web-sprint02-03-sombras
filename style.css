@@ -93,3 +93,7 @@ html, body {
 .demo__item_type_linear-gradient{
   background-image: linear-gradient(to bottom, #02B341, #ffffff);
 }
+
+.demo__item_type_radial-gradient{
+  background-image: radial-gradient(#02B341 15%, #fff 60% )
+}
